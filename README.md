@@ -1,1 +1,3 @@
-# demo
+# Demo
+
+Enjoy your Git journey!
